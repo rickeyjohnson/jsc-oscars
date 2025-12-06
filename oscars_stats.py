@@ -42,5 +42,5 @@ def calculate_stats(csv_path):
 
 if __name__ == "__main__":
     # Hard‑code your CSV file path here:
-    csv_path = "./jsc_oscars_spring_25.csv"
+    csv_path = "./csv/jsc_oscars_fall_25_tiebreakers.csv"
     calculate_stats(csv_path)

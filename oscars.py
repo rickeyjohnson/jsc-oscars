@@ -43,7 +43,7 @@ def print_top3_from_nominations(csv_path):
         print()  # blank line between categories
 
 # Hardcoded path to your CSV file:
-csv_path = "./jsc_oscars_spring_25.csv"
+csv_path = "./csv/jsc_oscars_fall_25.csv"
 
 # To execute, uncomment the following line and ensure the CSV path is correct:
 print_top3_from_nominations(csv_path)
